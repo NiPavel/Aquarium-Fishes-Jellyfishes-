@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 
- * @author Οΰβελ AquaFrame class that creating a JFrame for an aquarium
+ * @author ΓΓ ΓΆΓ¥Γ« AquaFrame class that creating a JFrame for an aquarium
  */
 public class AquaFrame extends JFrame implements ActionListener {
 	private static final long serialVersionUID = 1L;
