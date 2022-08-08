@@ -31,7 +31,7 @@ public class AquaPanel extends JPanel implements ActionListener {
 	private AquaFrame frame;
 	private Color newColor;
 
-	Image image = Toolkit.getDefaultToolkit().getImage("C:\\Users\\Οΰβελ\\Desktop\\pic.jpg");
+	Image image = Toolkit.getDefaultToolkit().getImage("C:\\Users\\ΓΓ ΓΆΓ¥Γ«\\Desktop\\pic.jpg");
 	JPanel temp, JPanelDecorator;
 	JLabel hungry;
 	BorderLayout border = new BorderLayout();
